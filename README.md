@@ -1,6 +1,6 @@
 ---
 
-## 🚀 LIVE DEMO
+## LIVE DEMO
 
 **Try the app online right now:**
 
