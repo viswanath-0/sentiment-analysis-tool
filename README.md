@@ -1,3 +1,14 @@
+---
+
+## 🚀 LIVE DEMO
+
+**Try the app online right now:**
+
+### https://sentiment-analysis-tool-viswanath.streamlit.app/
+
+No installation needed! Just click the link and start analyzing sentiment.
+
+---
 # SENTIMENT ANALYSIS TOOL
 ## Professional Documentation - Concise Version
 
